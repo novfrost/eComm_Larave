@@ -64,6 +64,10 @@ body {
   border-top-right-radius: 0;
 }
 
+img.slider-img {
+  height:400px !important;
+}
+
 </style>
 
     <!-- Bootstrap JS -->
